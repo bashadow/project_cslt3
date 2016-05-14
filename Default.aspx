@@ -8,6 +8,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
      <div id="content_area">
          </div>
+         <div>Phong nguyen</div>
 <div>Hello World
 </div>
 </asp:Content>
